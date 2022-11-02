@@ -7,17 +7,17 @@
     <title>Buscador de Autos</title>
     <link rel="stylesheet" href="./css/style.css" />
   </head>
-  <body>
+  <body class="bg-blue-300">
     <h1 class="text-4xl text-center font-bold my-4">BUSCADOR DE AUTOS</h1>
 
-    <div class="" id="contenedor">
-      <form
-        class="buscador container mx-auto w-4/6 my-4 p-4 flex flex-wrap justify-between"
-        id="buscador"
-      >
+    <div
+      class="rounded-md bg-white container mx-auto w-4/6 my-4 p-4"
+      id="contenedor"
+    >
+      <form class="buscador flex flex-wrap justify-between" id="buscador">
         <div class="w-1/4">
-          <label for="marca">Marca:</label>
-          <select name="marca" id="marca">
+          <label class="font-bold block" for="marca">Marca:</label>
+          <select class="my-4 px-2 py-3 mx-2 w-auto" name="marca" id="marca">
             <option value="" disabled selected>Seleccione</option>
             <option value="Audi">Audi</option>
             <option value="BMW">BMW</option>
@@ -28,12 +28,16 @@
           </select>
         </div>
         <div class="w-1/4">
-          <label for="year">Año</label>
-          <select name="year" id="year"></select>
+          <label class="font-bold block" for="year">Año</label>
+          <select
+            class="my-4 px-2 py-3 mx-2 w-auto"
+            name="year"
+            id="year"
+          ></select>
         </div>
         <div class="w-1/4">
-          <label for="minimo">Precio Min</label>
-          <select name="minimo" id="minimo">
+          <label class="font-bold block" for="minimo">Precio Min</label>
+          <select class="my-4 px-2 py-3 mx-2 w-auto" name="minimo" id="minimo">
             <option value="">Seleccione</option>
             <option value="20000">20,000</option>
             <option value="30000">30,000</option>
@@ -46,8 +50,8 @@
           </select>
         </div>
         <div class="w-1/4">
-          <label for="maximo">Precio Max</label>
-          <select name="maximo" id="maximo">
+          <label class="font-bold block" for="maximo">Precio Max</label>
+          <select class="my-4 px-2 py-3 mx-2 w-auto" name="maximo" id="maximo">
             <option value="">Seleccione</option>
             <option value="20000">20,000</option>
             <option value="30000">30,000</option>
@@ -60,24 +64,32 @@
           </select>
         </div>
         <div class="w-1/3">
-          <label for="puertas">Puertas</label>
-          <select name="puertas" id="puertas">
+          <label class="font-bold block" for="puertas">Puertas</label>
+          <select
+            class="my-4 px-2 py-3 mx-2 w-auto"
+            name="puertas"
+            id="puertas"
+          >
             <option value="">Seleccione</option>
             <option value="2">2</option>
             <option value="4">4</option>
           </select>
         </div>
         <div class="w-1/3">
-          <label for="transmision">Transmision</label>
-          <select name="transmision" id="transmision">
+          <label class="font-bold block" for="transmision">Transmision</label>
+          <select
+            class="my-4 px-2 py-3 mx-2 w-auto"
+            name="transmision"
+            id="transmision"
+          >
             <option value="">Seleccione</option>
             <option value="Manual">Manual</option>
             <option value="Automática">Automática</option>
           </select>
         </div>
         <div class="w-1/3">
-          <label for="color">Color</label>
-          <select name="color" id="color">
+          <label class="font-bold block" for="color">Color</label>
+          <select class="my-4 px-2 py-3 mx-2 w-auto" name="color" id="color">
             <option value="">Seleccione</option>
             <option value="Negro">Negro</option>
             <option value="Azul">Azul</option>
