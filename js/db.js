@@ -7,7 +7,7 @@ const autos = [
     puertas: 4,
     color: "Blanco",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/bmwserie32020blanco.jpg",
   },
   {
     marca: "Audi",
@@ -17,7 +17,7 @@ const autos = [
     puertas: 4,
     color: "Negro",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/audia42020negro.jpg",
   },
   {
     marca: "Ford",
@@ -27,7 +27,7 @@ const autos = [
     puertas: 2,
     color: "Blanco",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/fordmustang2015blanco.jpg",
   },
   {
     marca: "Audi",
@@ -37,7 +37,7 @@ const autos = [
     puertas: 4,
     color: "Negro",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/audia62020negro.jpg",
   },
   {
     marca: "BMW",
@@ -47,7 +47,7 @@ const autos = [
     puertas: 4,
     color: "Rojo",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/bmwserie52016rojo.jpg",
   },
   {
     marca: "Mercedes Benz",
@@ -57,7 +57,7 @@ const autos = [
     puertas: 4,
     color: "Blanco",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/mercedesbenzclaseC2015Blanco.jpg",
   },
   {
     marca: "Chevrolet",
@@ -67,7 +67,7 @@ const autos = [
     puertas: 2,
     color: "Rojo",
     transmision: "manual",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/chevroletcamaro2018rojo.jpg",
   },
   {
     marca: "Ford",
@@ -77,7 +77,7 @@ const autos = [
     puertas: 2,
     color: "Rojo",
     transmision: "manual",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/fordmustang2019rojo.jpg",
   },
   {
     marca: "Dodge",
@@ -87,7 +87,7 @@ const autos = [
     puertas: 4,
     color: "Blanco",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/dodgechallenger2020blanco.jpg",
   },
   {
     marca: "Audi",
@@ -97,7 +97,7 @@ const autos = [
     puertas: 2,
     color: "Negro",
     transmision: "manual",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/audia32017negro.jpg",
   },
   {
     marca: "Dodge",
@@ -107,7 +107,7 @@ const autos = [
     puertas: 2,
     color: "Rojo",
     transmision: "manual",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/dodgechallenger2020rojo.jpg",
   },
   {
     marca: "Mercedes Benz",
@@ -117,7 +117,7 @@ const autos = [
     puertas: 4,
     color: "Azul",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/mercedesbenzclaseC2018azul.jpg",
   },
   {
     marca: "BMW",
@@ -127,7 +127,7 @@ const autos = [
     puertas: 4,
     color: "Blanco",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/bmwserie52019blanco.jpg",
   },
   {
     marca: "Ford",
@@ -137,7 +137,7 @@ const autos = [
     puertas: 2,
     color: "Negro",
     transmision: "manual",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/fordmustang2017negro.jpg",
   },
   {
     marca: "Dodge",
@@ -147,7 +147,7 @@ const autos = [
     puertas: 2,
     color: "Azul",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/dodgechallenger2015azul.jpg",
   },
   {
     marca: "BMW",
@@ -157,7 +157,7 @@ const autos = [
     puertas: 4,
     color: "Blanco",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/bmwserie32019blanco.jpg",
   },
   {
     marca: "BMW",
@@ -167,7 +167,7 @@ const autos = [
     puertas: 4,
     color: "Negro",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/bmwserie52017negro.jpg",
   },
   {
     marca: "Mercedes Benz",
@@ -177,7 +177,7 @@ const autos = [
     puertas: 4,
     color: "Blanco",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/mercedesbenzclaseC2018blanco.jpg",
   },
   {
     marca: "Audi",
