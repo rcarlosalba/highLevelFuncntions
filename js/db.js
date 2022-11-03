@@ -1,4 +1,4 @@
-const autos = [
+const todosLosAutos = [
   {
     marca: "BMW",
     modelo: "Serie 3",
@@ -187,6 +187,6 @@ const autos = [
     puertas: 4,
     color: "Azul",
     transmision: "automatico",
-    img: "./img/nombreCarro.jpg",
+    img: "./img/audia42016azul.jpg",
   },
 ];
